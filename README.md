@@ -1,4 +1,13 @@
-# Hi there 👋 I'm @matteobonesini 👨‍💻 
+# Hi there. I'm @matteobonesini 👨‍💻 
+
+Connect with me:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-bonesini-880ba0294/)
+
+___
+
+Languages, frameworks and other technologies I work with:
+
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
